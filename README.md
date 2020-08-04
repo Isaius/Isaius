@@ -1,16 +1,17 @@
-### Hi there 👋
+<img width="auto" src="https://i.imgur.com/ltFQpTP.png" />
 
-<!--
-**Isaius/Isaius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Isaias Oliveira
 
-Here are some ideas to get you started:
+### Fala aí 🤙
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tô sempre buscando uma forma melhor de resolver problemas, sejam de programação ou não.
+
+  :rocket: Atualmente estudando ReactJS, React Native e NodeJS. Com TypeSript, por favor. <br/>
+  🔎 Procurando colaborar em projetos open source feitos em Node <br/>
+  🤔 Queria uma ajudinha com front-end... <br/>
+  🤓 Posso te ajudar com API em Node e algoritmos no geral, pode perguntar! <br/>
+  📫 Aliás, manda uma mensagem ai:
+    [![Linkedin Badge](https://img.shields.io/badge/-IsaiasOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaious/)](https://www.linkedin.com/in/tgmarinho/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-isaigrec@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaigrec@gmail.com)](mailto:isaigrec@gmail.com)<br/>
+ :exclamation: Gosto de qualquer conteúdo investigativo, principalmente jogos. 🧙‍♂️ Um mago nunca se atrasa!
