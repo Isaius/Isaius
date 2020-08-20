@@ -6,7 +6,7 @@
 
 Tô sempre buscando uma forma melhor de resolver problemas, sejam de programação ou não.
 
-  :rocket: Atualmente estudando ReactJS, React Native e NodeJS. Com TypeSript, por favor. <br/>
+  :rocket: Atualmente estudando ReactJS, React Native e NodeJS. Com TypeScript, por favor. <br/>
   🔎 Procurando colaborar em projetos open source feitos em Node <br/>
   🤔 Queria uma ajudinha com front-end... <br/>
   🤓 Posso te ajudar com API em Node e algoritmos no geral, pode perguntar! <br/>
