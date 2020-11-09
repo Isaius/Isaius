@@ -1,5 +1,3 @@
-<img width="auto" src="https://i.imgur.com/ltFQpTP.png" />
-
 ## Isaias Oliveira
 
 ### Fala aí 🤙
@@ -15,3 +13,5 @@ Tô sempre buscando uma forma melhor de resolver problemas, sejam de programaç�
 | 
 [![Gmail Badge](https://img.shields.io/badge/-isaigrec@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaigrec@gmail.com)](mailto:isaigrec@gmail.com)<br/>
  :exclamation: Gosto de qualquer conteúdo investigativo, principalmente jogos. 🧙‍♂️ Um mago nunca se atrasa!
+
+![Programo comumente em](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaius&layout=compact)
