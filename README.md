@@ -1,5 +1,3 @@
-## Isaias Oliveira
-
 ### Fala aí 🤙
 
 Tô sempre buscando uma forma melhor de resolver problemas, sejam de programação ou não.
