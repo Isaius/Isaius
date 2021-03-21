@@ -10,6 +10,6 @@ Always trying solve problems in a better way, code related or not.
     [![Linkedin Badge](https://img.shields.io/badge/-IsaiasOliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaious/)](https://www.linkedin.com/in/tgmarinho/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-isaigrec@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isaigrec@gmail.com)](mailto:isaigrec@gmail.com)<br/>
- :exclamation: If you don't like your newborn code, it means that you can do it better.
+ :exclamation: If you don't like your newborn code, that means you can do it better.
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaius&layout=compact)
