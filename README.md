@@ -2,7 +2,7 @@
 
 Always trying solve problems in a better way, code related or not.
 
-  :rocket: Now learning Elixir. Searching the shilosopher's stone <br/>
+  :rocket: Now learning Elixir. Searching the philosopher's stone <br/>
   🔎 Hunting Open Source project to contribute <br/>
   🤓 Need help related to Rest API or backend things? Let me know. <br/>
   📫 BTW, reach me out here:
